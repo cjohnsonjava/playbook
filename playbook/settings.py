@@ -86,9 +86,9 @@ SESSION_COOKIE_AGE = 10 * 60  # 10 minutes
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.postgresql_psycopg2',
-    'NAME': 'northbr6_devwaterwheel',
+    'NAME': 'Playbook',
     'USER': 'postgres',
-    'PASSWORD': 'postgres',
+    'PASSWORD': 'mendheim1',
     'HOST': '127.0.0.1',
     'PORT': '5432',
     }
